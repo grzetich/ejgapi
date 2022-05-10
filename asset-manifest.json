@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ejgapi/static/css/main.073c9b0a.css",
+    "main.js": "/ejgapi/static/js/main.a8154c13.js",
+    "static/js/787.200cab14.chunk.js": "/ejgapi/static/js/787.200cab14.chunk.js",
+    "static/media/logo.svg": "/ejgapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ejgapi/index.html",
+    "main.073c9b0a.css.map": "/ejgapi/static/css/main.073c9b0a.css.map",
+    "main.a8154c13.js.map": "/ejgapi/static/js/main.a8154c13.js.map",
+    "787.200cab14.chunk.js.map": "/ejgapi/static/js/787.200cab14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a8154c13.js"
+  ]
+}
